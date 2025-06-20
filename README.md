@@ -12,7 +12,7 @@ Features:
 
 Technologies Used:
 
-- Java (version [insert version])
+- Java 
 
 How to Run:
 
